@@ -1,24 +1,18 @@
 # Overview schedule
 
-Tentative Schedule. Links to Zoom sessions will be added closer to the hackathon.
+Tentative Schedule. Links to Zoom sessions will be added closer to the workshop.
 
-## All times are in PST (Los Angeles time)
+## All times are in PST/EST (Pacific Time/Eastern Time)
 
-### Day 1
+| Start | Session | Host |
+| ---- | --------- | ------------------- |   
+| 08:00am/11:00am | Welcome  | name |
+| 08:30am/11:30am | What are workflows and workflow optimization? | name |
+| 09:00am/12:00pm | Active work session | name |
+| 10:00am/1:00pm | 30-minute break| N/A |
+| 10:30am/1:30pm | ASSET tool as an example | name |
+| 11:00am/2:00pm | Active work session | name |
+| 11:30am/2:30pm | Community building, reflection, Q&A | name |
+| 12:00pm/3:00pm | Closing discussion; post-workshop survey | name |
 
-| Start | End | Session | Speaker |
-| ---- | ---- | --------- | ------------------- |   
-| 09:00 | 09:15 | Welcome  | J. Emile-Geay |
-|09:15|10:00|The LiPD data model| N. McKay|
-|10:15|11:00|Overview of methods| J. Emile-Geay|
-|11:15|12:00|Hackathon roadmap| D. Khider|
-|13:00|16:00| Hands-on practicums| |
 
-### Day 2
-
-| Start | End | Session | Speaker |
-| ---- | ---- | --------- | ------------------- |   
-| 09:00 | 12:00 | Hands-on practicums||
-|13:00|14:45|Presentations: take-homes from Pyleoclim| D. Khider|
-|15:00|15:45|Installing Pyleoclim on a local computer| D. Khider, F. Zhu|
-|15:45|16:00|Concluding remarks| J. Emile-Geay|
