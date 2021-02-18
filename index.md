@@ -9,17 +9,11 @@ EarthCube and related organizations bring you the most incredibly exciting workf
 
 
 
- By the end of the hackathon, participants will be able to:
-* Understand the basics of paleo data structures
-* Manipulate these structures
-* Understand age model ensembles
-* Process paleo timeseries (e.g., binning, interpolation, detrending)
-* Apply spectral and wavelet analysis, with appropriate uncertainty quantification
-* Correlate a paleo timeseries to a climate field
-* Correlate two time-uncertain timeseries
-* Compare a record to climate simulations and reanalysis datasets
-* Generate publication-quality graphics
-* Manage complex, reproducible paleoclimate workflows
+ By the end of this workshop, participants will be able to:
+* Identify several benefits of using scientific workflows
+* Document scientific work performed as a replicable artifact
+* Use ASSET to create workflows
+* Network with fellow geoscientists
 
 ## Overview Schedule
 
@@ -28,9 +22,18 @@ The hackathon will take place on Zoom. A tentative schedule available [here](htt
 ## Participating
 
 * Register [here](https://forms.gle/Kaj44ZVGsCwJLvvB6) by **February 7th, 2021**.
-* The hackathon will be a combination of livestreams, live discussions, and slack conversations.
-* The hackathon is organized around practicum sessions designed to get you started with the [Pyleoclim package](https://pyleoclim-util.readthedocs.io/en/stable/).
+* The workshop will be a combination of livestreams, live discussions, and slack conversations.
+* The workshop is organized around practicum sessions designed to get you started with the [Pyleoclim package](https://pyleoclim-util.readthedocs.io/en/stable/).
 * See our [FAQ](https://linkedearth.github.io/paleoHackathon/faq) for requirements.
+
+## Accessing ASSET
+
+* Learn more about our [ASSET workflow creation tool](https://www.earthcube.org/post/asset-an-aptly-named-tool-for-scientists)
+* [Use the ASSET tool](https://www.asset-project.info/)
+
+## Survey
+
+* Upon completion of this workshop, please complete the [user survey](https://docs.google.com/forms/d/e/1FAIpQLScOPtDk0RARBUybklHbrrj6pyjm3BjLuokxV2vL5Ktlb4jCDQ/viewform) so we can better meet your needs in the future.
 
 ## Support
 
