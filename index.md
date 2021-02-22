@@ -17,7 +17,7 @@ EarthCube and related organizations bring you the most incredibly exciting workf
 
 ## Overview Schedule
 
-The workshop will take place on Zoom. [A tentative schedule is available here](https://linkedearth.github.io/paleoHackathon/schedule).
+The workshop will take place on Zoom. [A tentative schedule is available here](https://dbwms9.github.io/SampleSite2/schedule).
 
 ## Participating
 
