@@ -4,10 +4,9 @@ title: ASSET Workshop
 ---
 ---
 
-## Virtual Workshop Date: March 19, 2021, 9am-1pm Pacific Standard Time (UTC-8)
+## Virtual Workshop Date: Tuesday, March 16, 2021, 8am-11am Pacific Standard Time (UTC-8)
 EarthCube and related organizations bring you the most incredibly exciting workflow training since EVAR...
-
-
+EarthCube’s Accelerating Scientific Workflows using EarthCube Technologies (ASSET) workflow sketching interface enables scientists to specify their workflows and describe the steps involved, their dependencies, current tools used, current duration, and other important aspects of a scientist’s workflow. Scientists will be trained on reproducibility and how this can be achieved through capturing their workflows and tracking provenance of workflow execution results.
 
  By the end of this workshop, participants will be able to:
 * Identify several benefits of using scientific workflows
@@ -15,13 +14,13 @@ EarthCube and related organizations bring you the most incredibly exciting workf
 * Use ASSET to create workflows
 * Network with fellow geoscientists
 
-## Overview Schedule
+## Workshop Schedule
 
-The workshop will take place on Zoom. [A tentative schedule is available here](https://dbwms9.github.io/SampleSite2/schedule).
+The workshop will take place on Zoom. [A tentative schedule is available here](insert relative link here e.g. "/SampleSite2/schedule").
 
 ## Participating
 
-* Register [here](https://forms.gle/Kaj44ZVGsCwJLvvB6) by **February 7th, 2021**.
+* Register [here](https://forms.gle/Kaj44ZVGsCwJLvvB6) by **March 12, 2021**.
 
 ## Accessing ASSET
 
