@@ -5,7 +5,7 @@ title: ASSET Workshop
 ---
 
 ## Virtual Workshop Date: Tuesday, March 16, 2021, 8am-11am Pacific Standard Time (UTC-8)
-EarthCube’s Accelerating Scientific Workflows using EarthCube Technologies (ASSET) workflow sketching interface enables scientists to specify their workflows and describe the steps involved, their dependencies, current tools used, current duration, and other important aspects of a scientist’s workflow. Scientists will be trained on reproducibility and how this can be achieved through capturing their workflows and tracking provenance of workflow execution results.
+EarthCube’s Accelerating Scientific workflowS using EarthCube Technologies (ASSET) workflow sketching interface enables scientists to specify their workflows and describe the steps involved, their dependencies, current tools used, current duration, and other important aspects of a scientist’s workflow. Scientists will be trained on reproducibility and how this can be achieved through capturing their workflows and tracking provenance of workflow execution results.
 
  By the end of this workshop, participants will be able to:
 * Identify several benefits of using scientific workflows
@@ -19,11 +19,11 @@ The workshop will take place on Zoom. [A tentative schedule is available here](i
 
 ## Participating
 
-* Register [here](https://forms.gle/Kaj44ZVGsCwJLvvB6) by **March 12, 2021**.
+* Register [here](https://docs.google.com/forms/d/1PidKkpr9bPdiAazUKBHlZ27Wrou1MyFfS7Qyv-hoLXM/viewform?edit_requested=true) by **March 12, 2021**.
 
 ## Accessing ASSET
 
-* Learn more about our [ASSET workflow creation tool](https://www.earthcube.org/post/asset-an-aptly-named-tool-for-scientists)
+* Learn more about our [ASSET workflow sketching tool](https://www.earthcube.org/post/asset-an-aptly-named-tool-for-scientists)
 * [Use the ASSET tool](https://www.asset-project.info/)
 
 ## Survey
