@@ -32,5 +32,5 @@ The workshop will take place on Zoom. [The workshop schedule is available here](
 
 ## Support
 
-This workshop is free to attend and supported by National Science Foundation through the following grants: ICER 1740641, ICER 1740719 and ICER 1740683.
+This workshop is free to attend and supported by National Science Foundation through the following grants: ICER 1928208, ICER 1740641, ICER 1740719 and ICER 1740683.
 
