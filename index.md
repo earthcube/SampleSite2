@@ -15,11 +15,11 @@ EarthCube’s Accelerating Scientific workflowS using EarthCube Technologies (AS
 
 ## Workshop Schedule
 
-The workshop will take place on Zoom. [A tentative schedule is available here](/SampleSite2/schedule).
+The workshop will take place on Zoom. [The workshop schedule is available here]("/SampleSite2/schedule").
 
 ## Participating
 
-* [Register here](https://docs.google.com/forms/d/1PidKkpr9bPdiAazUKBHlZ27Wrou1MyFfS7Qyv-hoLXM/viewform?edit_requested=true) by **March 12, 2021**.
+* [Register here](https://docs.google.com/forms/d/1PidKkpr9bPdiAazUKBHlZ27Wrou1MyFfS7Qyv-hoLXM/viewform?edit_requested=true) by **March 15, 2021**.
 
 ## Accessing ASSET
 
