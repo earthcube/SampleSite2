@@ -21,3 +21,4 @@
 
 [Mike Daniels](http://ronininstitute.org/research-scholars/mike-daniels/), Ronin Institute
 ---
+Supported by the [EarthCube Geoscientists' Engagement Working Group](https://www.earthcube.org/working-groups)
