@@ -15,4 +15,4 @@
 <img src="images/Mike Daniels.jpg" alt="Mike Daniels" width="100" />
 
 [Mike Daniels](http://ronininstitute.org/research-scholars/mike-daniels/), Ronin Institute
-
+---
