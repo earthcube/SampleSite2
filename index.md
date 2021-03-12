@@ -15,7 +15,7 @@ EarthCube’s Accelerating Scientific workflowS using EarthCube Technologies (AS
 
 ## Workshop Schedule
 
-The workshop will take place on Zoom. [The workshop schedule is available here]("/SampleSite2/schedule").
+The workshop will take place on Zoom. [The workshop schedule is available here](href="/SampleSite2/schedule").
 
 ## Participating
 
@@ -23,7 +23,7 @@ The workshop will take place on Zoom. [The workshop schedule is available here](
 
 ## Accessing ASSET
 
-* Learn more about our [ASSET workflow sketching tool](https://www.earthcube.org/post/asset-an-aptly-named-tool-for-scientists)
+* Learn more about our [ASSET Workflow Sketching Tool](https://www.earthcube.org/post/asset-an-aptly-named-tool-for-scientists)
 * [Use the ASSET tool](https://www.asset-project.info/sketching.html)
 
 ## Survey
