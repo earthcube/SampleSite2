@@ -11,8 +11,8 @@ Tentative Schedule. Links to Zoom sessions will be added closer to the workshop.
 | 08:40am | Optimizing workflows to improve time to science | Cindy Bruyere |
 | 09:10am | Using notebooks as workflows | Scott Peckham |
 | 09:40am | Introduction to the ASSET Workflow Sketching Tool | Yolanda Gil |
-| 09:50am | 10-minute break | N/A |
-| 10:00am | Hands-on session to create workflows | N/A |
-| 10:45am | Sharing of 2-3 workflows created during hands-on session | N/A |
+| 09:50am | 10-minute break |  |
+| 10:00am | Hands-on session to create workflows |  |
+| 10:45am | Sharing of 2-3 workflows created during hands-on session |  |
 
 
