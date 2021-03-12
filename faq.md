@@ -29,5 +29,7 @@ A: As mentioned, a basic understanding of the steps that are required for your s
 
 A: A better understanding of why workflows are important, how to cite workflows and how to use them to shorten your time to science.
 <hr />
-*Upon completion of this training, we would be interested in knowing how you might use workflows in the conduct of your science. Please visit the [participant survey form](https://docs.google.com/forms/d/e/1FAIpQLScOPtDk0RARBUybklHbrrj6pyjm3BjLuokxV2vL5Ktlb4jCDQ/viewform) to let us know!*
+
+Upon completion of this training, we would be interested in knowing how you might use workflows in the conduct of your science. Please visit the [participant survey form](https://docs.google.com/forms/d/e/1FAIpQLScOPtDk0RARBUybklHbrrj6pyjm3BjLuokxV2vL5Ktlb4jCDQ/viewform) to let us know!
+
 
