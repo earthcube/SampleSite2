@@ -1,6 +1,5 @@
-# Overview schedule
+# Event Schedule
 
-Tentative Schedule. Links to Zoom sessions will be added closer to the workshop.
 
 ## All times are in Pacific Daylight Time (PDT)
 
