@@ -15,7 +15,7 @@ EarthCube’s Accelerating Scientific workflowS using EarthCube Technologies (AS
 
 ## Workshop Schedule
 
-The workshop will take place on Zoom. [A tentative schedule is available here](insert relative link here e.g. "/SampleSite2/schedule").
+The workshop will take place on Zoom. [A tentative schedule is available here](/SampleSite2/schedule).
 
 ## Participating
 
