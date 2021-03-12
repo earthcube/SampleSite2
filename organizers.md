@@ -1,4 +1,6 @@
 # Organizers
+*Click on their names for more information about our organizers*
+<hr />
 
 <img src="images/Yolanda Gil.jpg" alt="Yolanda Gil" width="100" />
 
