@@ -2,29 +2,28 @@
 
 ### Q: Who is this workshop for?
 
-A: This workshop is open to any researcher engaged in lorem ipsum...
+A: This workshop is for students, researchers and other scientific professionals who would like to learn more about workflows and how they can improve the communication of their science methods, enhance reproducibility, support the use of standards and open source tools and shorten their time to science.
+<hr />
 
 ### Q: What are the technical requirements?
 
-A: To attend, all you need is a computer, a stable internet connection, and access to Zoom and Slack.
-
+A: Some basic understanding of processes used in scientific research will help, but this training workshop will also introduce some of those concepts.
+<hr />
 ### Q: How do I register for the workshop?
 
-A: Please fill out ]this registration form](https://forms.gle/Kaj44ZVGsCwJLvvB6) by **February 7th, 2021**.
-
+A: Please fill out [this registration form](https://docs.google.com/forms/d/1PidKkpr9bPdiAazUKBHlZ27Wrou1MyFfS7Qyv-hoLXM/viewform?edit_requested=true) by **March 15, 2021**.
+<hr />
 ### Q: What will the schedule look like?
 
-A: The hackathon will be held virtually, and take place over two days (Feb 18-19 2021) in the Pacific Standard Time zone (UTC-8) where the instructors are located. The morning lectures will be recorded via Zoom and made available through our Slack channel for delayed viewing. [The schedule can be found here](https://linkedearth.github.io/paleoHackathon/schedule) or you can click the "Schedule" button at the top of this page. Schedule is subject to change. If you are participating in this workshop, make sure to connect through Slack to stay up-to-date.
-
+A: The workshop will take place on March 16, from 8-11AM PST. We will begin by having a series of lectures about why workflows are important, including some examples, and then will demonstrate how to use the ASSET Workflow Sketching Tool. A hands-on session will follow in which researchers can create their own workflows using the tool.
+<hr />
 ### Q: What will be expected of me?
 
-A: Two days of your time, your first newborn, $0.00, and a willingness to experiment with new tools (coping with the minor frustrations that such learning necessarily entails). On the last day, you will be expected to show what you managed to get through, and share what you and your team have learned in the process.  (we were joking about the first newborn). TOTALLY KEEPING ALL OF THIS TEXT FOR ASSET!!
-
+A: As mentioned, a basic understanding of the steps that are required for your scientific process would be helpful so that you can create your workflow using the tool.
+<hr />
 ### Q: What will I get out of this?
 
-A: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam....
-
-### Q: What other questions might be appropriate for this audience?
-
-A: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A: A better understanding of why workflows are important, how to cite workflows and how to use them to shorten your time to science.
+<hr />
+*Upon completion of this training, we would be interested in knowing how you might use workflows in the conduct of your science.*
 
