@@ -24,7 +24,7 @@ The workshop will take place on Zoom. [A tentative schedule is available here](i
 ## Accessing ASSET
 
 * Learn more about our [ASSET workflow sketching tool](https://www.earthcube.org/post/asset-an-aptly-named-tool-for-scientists)
-* [Use the ASSET tool](https://www.asset-project.info/)
+* [Use the ASSET tool](https://www.asset-project.info/sketching.html)
 
 ## Survey
 
@@ -32,6 +32,6 @@ The workshop will take place on Zoom. [A tentative schedule is available here](i
 
 ## Support
 
-This workshop is free to attend and is supported by the National Science Foundation grant 2002556 (P2C2 program).
+This workshop is free to attend and supported by National Science Foundation through the following grants: ICER 1740641, ICER 1740719 and ICER 1740683.
 
 Initial funding for the development of ASSET was provided by the National Science Foundation grant ICER-1541029 (EarthCube program). Supplemental funding was provided by JP Morgan Chase & Co. Any views or opinions expressed herein are solely those of the authors listed, and may differ from the views and opinions expressed by JP Morgan Chase & Co. or its affiliates. This material is not a product of the Research Department of J.P. Morgan Securities LLC. This material should not be construed as an individual recommendation of any particular client and is not intended as a recommendation of particular securities, financial instruments or strategies for a particular client. This material does not constitute a solicitation or offer in any jurisdiction.
