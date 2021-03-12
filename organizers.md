@@ -4,6 +4,7 @@
 
 [Yolanda Gil](https://viterbi.usc.edu/directory/faculty/Gil/Yolanda), Information Sciences Institute, University of Southern California
 ---
+<hr />
 <img src="images/Scott Peckham.jpg" alt="Scott Peckham" width="100" />
 
 [Scott Peckham](https://instaar.colorado.edu/people/scott-d-peckham/), Institute of Arctic and Alpine Research, University of Colorado, Boulder
