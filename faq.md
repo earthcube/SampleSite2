@@ -12,7 +12,7 @@ A: Some basic understanding of processes used in scientific research will help, 
 
 ### Q: How do I register for the workshop?
 
-A: Please fill out [this registration form](https://docs.google.com/forms/d/1PidKkpr9bPdiAazUKBHlZ27Wrou1MyFfS7Qyv-hoLXM/viewform?edit_requested=true) by **March 15, 2021**.
+A: Please fill out [this registration form](https://docs.google.com/forms/d/1PidKkpr9bPdiAazUKBHlZ27Wrou1MyFfS7Qyv-hoLXM/viewform?edit_requested=true) by **March 12, 2021**.
 <hr />
 
 ### Q: What will the schedule look like?
