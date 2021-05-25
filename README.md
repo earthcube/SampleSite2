@@ -1,7 +1,7 @@
 # SampleSite2
-Name: ASSET Workflow Sketching Workshop
+Name: EarthCube Tool Workshop
 
-Description: This site underpins the live training workshop for the ASSET tool, offered March 16, 2021. Just a home page and one layer of subpages, with some embedded YouTube videos to help get folks up to speed beforehand if they like.
+Description: Simple description of your workshop.
 
 Visuals: EarthCube logo, fairly plain (but accessible) theme.
 
